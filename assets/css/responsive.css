@@ -1,0 +1,120 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .header-section .navbar-nav .nav-item .nav-link {
+    margin-left: 0;
+    margin: 0.2rem 0;
+    text-align: center;
+  }
+  .pa-y4 {
+    padding: 2rem 0;
+  }
+  .common-heading {
+    margin-bottom: 2rem;
+  }
+  .common-heading h2 {
+    font-size: 1.5rem;
+  }
+  p {
+    width: 100% !important;
+  }
+  .fa-bars {
+    color: #ffffff;
+  }
+  .header-section .d-flex a {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+  br {
+    display: none;
+  }
+  .hero-bottom-txt {
+    padding: 2rem;
+  }
+  .feature-box-wrap {
+    margin-bottom: 2rem;
+  }
+  .feature-box-wrap .feat-thumbnail img {
+    width: 100%;
+  }
+  .about-txt {
+    margin-bottom: 1.5rem;
+  }
+  .number-counter-box {
+    margin-bottom: 1rem;
+  }
+  .video-content-txt {
+    margin-top: 2rem;
+  }
+  .servicing-platform-txt {
+    margin-bottom: 2rem;
+  }
+  .location-tab-head .nav .nav-item .nav-link {
+    margin-bottom: 0.8rem;
+  }
+  .video-box-wrap {
+    margin-bottom: 1rem;
+  }
+  .footer-map-wrap {
+    margin-top: 1rem;
+  }
+}
+@media (min-width: 575px) and (max-width: 767px) {
+  .header-section .navbar-nav .nav-item .nav-link {
+    margin-left: 0;
+    margin: 0.2rem 0;
+    text-align: center;
+  }
+  .pa-y4 {
+    padding: 2rem 0;
+  }
+  .common-heading {
+    margin-bottom: 2rem;
+  }
+  .common-heading h2 {
+    font-size: 1.5rem;
+  }
+  p {
+    width: 100% !important;
+  }
+  .fa-bars {
+    color: #ffffff;
+  }
+  .header-section .d-flex a {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+  br {
+    display: none;
+  }
+  .hero-bottom-txt {
+    padding: 2rem;
+  }
+  .feature-box-wrap {
+    margin-bottom: 2rem;
+  }
+  .feature-box-wrap .feat-thumbnail img {
+    width: 100%;
+  }
+  .about-txt {
+    margin-bottom: 1.5rem;
+  }
+  .number-counter-box {
+    margin-bottom: 1rem;
+  }
+  .video-content-txt {
+    margin-top: 2rem;
+  }
+  .servicing-platform-txt {
+    margin-bottom: 2rem;
+  }
+  .location-tab-head .nav .nav-item .nav-link {
+    margin-bottom: 0.8rem;
+  }
+  .video-box-wrap {
+    margin-bottom: 1rem;
+  }
+  .footer-map-wrap {
+    margin-top: 1rem;
+  }
+}
