@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/houseofb/dev.hobclinic.ro
+    - export DEPLOYPATH=/home/public_html/dev-ond-hda-mybluehost-me
     - /bin/cp -R * $DEPLOYPATH
