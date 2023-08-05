@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/houseofb/public_html/dev
+    - /bin/cp -R * $DEPLOYPATH
