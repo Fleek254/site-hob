@@ -1,4 +1,55 @@
+
+@media (max-width: 443px) {
+  .hob-primary-button{
+    display: none!important;
+  }
+  .hero-txt-wrap h1{
+    font-size: 1.4rem!important;
+  }
+
+  .hero-bottom-txt {
+    padding: 2rem;
+    top: 70%!important;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hob-cert-home img{
+    max-width: 80px;
+  }
+
+  .hero-bottom-txt .media i{
+    font-size: 1.5rem;
+    text-align: left;
+  }
+
+  .category-slider img{
+    max-width: 210px!important
+  }
+
+  .about-txt{
+    padding: 0 20px 20px;
+  }
+}
+
+@media (min-width: 443px) and (max-width: 575px){
+  .hero-bottom-txt {
+    padding: 2rem;
+    top: 60%!important;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+
 @media (min-width: 320px) and (max-width: 575px) {
+  .feature-section{
+    margin-top: 22rem!important;
+  }
+
   .header-section .navbar-nav .nav-item .nav-link {
     margin-left: 0;
     margin: 0.2rem 0;
@@ -27,9 +78,7 @@
   br {
     display: none;
   }
-  .hero-bottom-txt {
-    padding: 2rem;
-  }
+
   .feature-box-wrap {
     margin-bottom: 2rem;
   }
@@ -37,7 +86,7 @@
     width: 100%;
   }
   .about-txt {
-    margin-bottom: 1.5rem;
+    margin-bottom: 4rem;
   }
   .number-counter-box {
     margin-bottom: 1rem;
@@ -67,6 +116,7 @@
   .pa-y4 {
     padding: 2rem 0;
   }
+
   .common-heading {
     margin-bottom: 2rem;
   }
@@ -89,6 +139,7 @@
   }
   .hero-bottom-txt {
     padding: 2rem;
+    text-align: center;
   }
   .feature-box-wrap {
     margin-bottom: 2rem;
@@ -97,7 +148,7 @@
     width: 100%;
   }
   .about-txt {
-    margin-bottom: 1.5rem;
+    margin-bottom: 4rem;
   }
   .number-counter-box {
     margin-bottom: 1rem;

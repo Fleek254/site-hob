@@ -1,4 +1,21 @@
 /* Slider */
+/* .pp2{
+    color: #000000;
+    position: absolute;
+    top:30%;
+}
+
+.nn2{
+    color: #000000;
+    position: absolute;
+    top:30%;
+    left:20%;
+} */
+
+.slick-dots li.slick-active button{
+    background: #257E94!important;
+}
+
 .slick-slider
 {
     position: relative;

@@ -23,7 +23,7 @@ $('.about-slider').slick({
       breakpoint: 768,
       settings: {
         arrows: false,
-        dots: false,
+        dots: true,
         centerMode: false,
         centerPadding: '0px',
         slidesToShow: 2
@@ -33,8 +33,8 @@ $('.about-slider').slick({
       breakpoint: 480,
       settings: {
         arrows: false,
-        dots: false,
-        slidesToShow: 1.1,
+        dots: true,
+        slidesToShow: 1,
         centerMode: false,
         centerPadding: '30px',
       }
@@ -241,13 +241,13 @@ $('.category-slider').slick({
   arrows: false,
   autoPlay: true,
   centerMode: false,
-  dots: false,
+  dots: true,
   responsive: [
     {
       breakpoint: 992,
       settings: {
         arrows: false,
-        dots: false,
+        dots: true,
         centerMode: false,
         centerPadding: '15px',
         slidesToShow: 2
@@ -257,20 +257,22 @@ $('.category-slider').slick({
       breakpoint: 768,
       settings: {
         arrows: false,
-        dots: false,
+        dots: true,
         centerMode: true,
         centerPadding: '0px',
-        slidesToShow: 2
+        slidesToShow: 1
       }
     },
     {
       breakpoint: 480,
       settings: {
         arrows: false,
-        dots: false,
+        dots: true,
         centerMode: true,
         centerPadding: '10px',
-        slidesToShow: 1.5
+        slidesToShow: 1,
+        // prevArrow: $(".pp2"),
+        // nextArrow: $(".nn2"),
       }
     }
   ]

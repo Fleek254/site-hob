@@ -9,15 +9,15 @@
 		<div class="row mt-md-5">
 			<div class="col-lg-6 col-md-6">
 				<div class="hero-txt-wrap p-4 mt-md-5 mt-2">
-					<h3 style="color:#5BB6CC; font-weight: 700; ">House of Beauty <span style="color:#99C644">Clinic</span> </h3>
+					<h3 style="color:#5BB6CC; font-weight: 700; ">House of Beauty <span>Clinic</span> </h3>
+					<div class="mt-3" id="score-widget-script"   data-url="https://gcr.org/reviews/uFnlRKno/box" data-api="uFnlRKno"></div>
 					<h1 class="mt-3 text-white" style="font-weight: 600">Clinica dentara nr 1 in Romania Conform GCR</h1>
-					<div id="score-widget-script"   data-url="https://gcr.org/reviews/uFnlRKno/box" data-api="uFnlRKno"></div>
 				</div>
 			</div>
 		</div>
 		<div class="row justify-content-center mt-2">
 			<div class="col-lg-6 col-md-8 col-sm-10 col-12 mt-5">
-				<div class="hero-bottom-txt mx-md-2 mx-4 ">
+				<div class="hero-bottom-txt mx-md-2 mx-3">
 					<h5>Program</h5>
 					<div class="row">
 						<div class="col-lg-6 col-10 mx-auto">
@@ -30,11 +30,16 @@
 							</div>
 						</div>
 						<div class="col-lg-6 col-10 mx-auto mt-md-0 mt-4">
-							<div class="media">
+							<div class="media ">
 								<i class="fas fa-location-dot"></i>
 								<div class="media-body">
-									<p>Bulevardul Pipera, Nr. 59B,</p>
 									<p>Bulevardul Decebal Nr. 192</p>
+								</div>
+							</div>
+							<div class="media mt-4">
+								<i class="fas fa-location-dot"></i>
+								<div class="media-body">
+									<p>Bulevardul Pipera Nr. 59B</p>
 								</div>
 							</div>
 						</div>
@@ -71,6 +76,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-12 p-md-2 p-3">
+				<!-- <div class="pp2"><</div>
+					<div class="nn2">></div> -->
 					<div class="category-slider" data-aos="fade-up-left" data-aos-duration="1000">
 						<div class="slider-item">
 							<div class="feature-box-wrap mx-2" data-aos="fade-up-right" data-aos-duration="1000">
@@ -88,7 +95,7 @@
 								<div class="feat-thumbnail">
 									<img src="<?= base_url('assets/images/feat-02.png') ?>" alt="fast-fixed" class="img-fluid">
 								</div>
-								<div class="feat-txt">
+								<div class="feat-txt extra-margin">
 									<h5>Dantura Fixa <br class="d-md-none d-block"> in 24 de Ore</h5>
 									<a href="https://hob2.grandsoft.ro/" class="common-button">descopera</a>
 								</div>
@@ -105,6 +112,7 @@
 								</div>
 							</div>
 						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -116,7 +124,7 @@
 	<section class="about-section pa-y4" id="about-sec">
 		<div class="container">
 			<div class="row align-items-center">
-				<div class="col-lg-6 col-md-6 p-md-2 p-4">
+				<div class="col-lg-6 col-md-6 p-md-4 p-4">
 					<div class="about-txt">
 
 						<h5>Transformam vieți</h5>
@@ -128,7 +136,7 @@
 						<a href="#" class="common-button-two">vezi mai mult</a>
 					</div>
 				</div>
-				<div class="col-lg-6 col-md-6 p-md-2 px-4">
+				<div class="col-lg-6 col-md-6 p-md-2 px-5">
 					<div class="about-slider" data-aos="fade-up-left" data-aos-duration="1000">
 						<!-- item @S -->
 						<div class="slider-item">
@@ -200,6 +208,7 @@
 	</div>
 </section>
 <!-- number section @E -->
+<div class="inbetween-line"> </div>
 
 <!-- curved section @S -->
 <section class="curved-section pa-y4">

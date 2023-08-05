@@ -41,6 +41,13 @@ button:focus-within {
   box-shadow: none !important;
 }
 
+.inbetween-line{
+  width: 80%;
+  border-bottom: 0.8px solid #5BB6CC;
+  margin: auto;
+  margin-bottom: 4rem;
+}
+
 a,
 a:hover {
   color: #000;
@@ -436,12 +443,13 @@ h6 {
 }
 .hero-bottom-txt .media {
   align-items: center;
-  text-align: left;
+  text-align: center;
 }
 .hero-bottom-txt .media i {
   font-size: 2rem;
-  color: #505050;
+  color: #5BB6CC;
   margin-right: 0.5rem;
+  
 }
 .hero-bottom-txt .media p {
   font-size: 0.9rem;
@@ -487,6 +495,11 @@ h6 {
   text-align: center;
   margin-top: -4rem;
 }
+
+.extra-margin{
+  margin-top: -5rem!important;
+}
+
 .feature-box-wrap .feat-txt h5 {
   font-size: 1.2rem;
   font-weight: 700;
@@ -540,7 +553,7 @@ h6 {
 }
 
 .number-section {
-  background-image: url("../images/number-bg.png");
+  /* background-image: url("../images/number-bg.png"); */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -550,14 +563,14 @@ h6 {
   text-align: center;
 }
 .number-counter-box h5 {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: #505050;
   line-height: 140%;
   text-transform: uppercase;
 }
 .number-counter-box h6 {
-  font-size: 28px;
+  font-size: 1.2rem;
   font-weight: 800;
   color: #5bb6cc;
   line-height: 140%;
@@ -570,14 +583,14 @@ h6 {
   margin-bottom: 2.2rem;
 }
 .curved-box-wrap h6 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 700;
   color: #505050;
   line-height: 140%;
   margin-top: 1rem;
 }
 .curved-box-wrap img {
-  max-width: 10rem;
+  max-width: 6rem;
 }
 
 .video-content-section {
@@ -1378,10 +1391,10 @@ h6 {
 }
 
 .hob-cert-home img {
-  max-width: 110px;
+  max-width: 100px;
 }
 
-@media (max-width: 900px)
+@media (min-width: 767px) and (max-width: 900px)
 {
   .curved-box-wrap img {
     max-width: 6rem!important;
