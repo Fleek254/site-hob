@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/houseofb/public_html/dev
+    - export DEPLOYPATH=/home/houseofb/public_html/dev.hobclinic.ro
     - /bin/cp -R * $DEPLOYPATH
