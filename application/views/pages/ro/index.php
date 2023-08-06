@@ -11,7 +11,7 @@
 				<div class="hero-txt-wrap p-4 mt-md-5 mt-2">
 					<h3 style="color:#5BB6CC; font-weight: 700; ">House of Beauty <span>Clinic</span> </h3>
 					<div class="mt-3" id="score-widget-script"   data-url="https://gcr.org/reviews/uFnlRKno/box" data-api="uFnlRKno"></div>
-					<h1 class="mt-3 text-white" style="font-weight: 600">Clinica dentara nr 1 in Romania Conform GCR</h1>
+					<h1 class="mt-3 text-white" style="font-weight: 600">Clinica dentară nr 1 în România Conform GCR</h1>
 				</div>
 			</div>
 		</div>
@@ -33,12 +33,16 @@
 							<div class="media ">
 								<i class="fas fa-location-dot"></i>
 								<div class="media-body">
+									<p class="bold">House Of Beauty Clinic</p>
+									<p class="bold"> - Piata Alba Iulia -</p>
 									<p>Bulevardul Decebal Nr. 192</p>
 								</div>
 							</div>
 							<div class="media mt-4">
 								<i class="fas fa-location-dot"></i>
 								<div class="media-body">
+									<p class="bold">House Of Beauty Clinic</p>
+									<p class="bold"> - Pipera -</p>
 									<p>Bulevardul Pipera Nr. 59B</p>
 								</div>
 							</div>
@@ -55,9 +59,9 @@
 					</div>
 					<div class="col-md-12 col-12 mt-5">
 						<div class="d-flex align-items-center justify-content-between hob-cert-home">
-							<img src="<?= base_url('assets/images/iso1.webp') ?>" alt="">
-							<img src="<?= base_url('assets/images/iso3.png') ?>" alt="">
-							<img src="<?= base_url('assets/images/iso33.png') ?>" alt="">
+							<img  src="https://hobclinic.b-cdn.net/iso1.webp" alt="">
+							<img  src="https://hobclinic.b-cdn.net/iso3.png" alt="">
+							<img  src="https://hobclinic.b-cdn.net/iso33.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -169,7 +173,7 @@
 <!-- custom bg @E -->
 
 <!-- number section @S -->
-<section class="number-section pa-y4 mt-5 mb-5" id="cazuri">
+<section class="number-section pa-y4 mt-2 mb-2" id="cazuri">
 	<div class="container">
 		<div class="row">
 			<!-- col @S -->
@@ -766,7 +770,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="common-heading">
-					<h2>Ce spun pacienții nostri</h2>
+					<h2>Testimoniale pacienți</h2>
 				</div>
 			</div>
 		</div>
@@ -1036,7 +1040,7 @@
 			<!-- col @S -->
 			<div class="col-lg-5">
 				<div class="galler-box-wrap text-center" data-aos="fade-up" data-aos-duration="1000">
-					<span class="gallery-badge">Clinica Alba iulia</span>
+					<span class="gallery-badge">House of Beauty Clinic - Alba iulia</span>
 					<div class="row">
 						<div class="col-12 mb-4">
 							<img src="<?= base_url('assets/images/ab1.png') ?>" id="abcontainer" alt="gallery-big" class="img-fluid">
@@ -1064,7 +1068,7 @@
 			<!-- col @S -->
 			<div class="col-lg-5 offset-lg-1 offset-md-1 mt-5 mt-md-0">
 				<div class="galler-box-wrap text-center" data-aos="fade-up" data-aos-duration="1000">
-					<span class="gallery-badge">Clinica Pipera</span>
+					<span class="gallery-badge">House of Beauty Clinic - Pipera</span>
 					<div class="row">
 						<div class="col-12 mb-4">
 							<img src="<?= base_url('assets/images/pp1.jpg') ?>" id="ppcontainer" alt="gallery-big" class="img-fluid">
@@ -1227,166 +1231,4 @@
 	</div>
 </section>
 <!-- partner section @E -->
-
-<section class="pa-y4">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="common-heading mb-5">
-					<h2>Intrebari frecvente</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row mt-1">
-			<div class="col-12">
-				<div class="accordion accordion-flush" id="accordionFlushExample">
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingOne">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-								Ce este estetica dentară?
-							</button>
-						</h2>
-						<div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Estetica dentară este o ramură a stomatologiei care se concentrează pe îmbunătățirea aspectului dinților, gingiilor și zâmbetului pacienților, prin diverse tratamente și proceduri
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingTwo">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-								Cât costă tratamentele de estetică dentară?
-							</button>
-						</h2>
-						<div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Costurile tratamentelor de estetică dentară variază în funcție de tipul de procedură, complexitatea cazului și clinica aleasă. Este recomandat să discutați cu medicul stomatolog despre opțiunile disponibile și costurile aferente.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingThree">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-								Este dureroasă estetica dentară?
-							</button>
-						</h2>
-						<div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Majoritatea procedurilor de estetică dentară sunt minim invazive și implică disconfort redus. În cazurile în care pacientul prezintă anxietate sau sensibilitate crescută, medicul stomatolog poate administra anestezie locală sau sedare conștientă.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingFour">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-								Ce sunt fațetele dentare și cât durează?
-							</button>
-						</h2>
-						<div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Fațetele dentare sunt învelișuri subțiri, realizate din porțelan sau rășină compozită, care se aplică pe suprafața frontală a dinților pentru a îmbunătăți aspectul lor. Durata de viață a fațetelor dentare variază, dar în general, acestea pot dura între 10 și 15 ani cu îngrijire corespunzătoare.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingFive">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-								Cât durează procedura de albire a dinților și cât rezistă rezultatele?
-							</button>
-						</h2>
-						<div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Durata procedurii de albire a dinților depinde de metoda aleasă. Albirea în cabinet durează aproximativ o oră, în timp ce tratamentele de albire la domiciliu pot dura câteva săptămâni. Rezultatele pot dura de la câteva luni până la câțiva ani, în funcție de îngrijirea dentară și obiceiurile pacientului
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingSix">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
-								Sunt sigure tratamentele de estetică dentară pentru femeile însărcinate?
-							</button>
-						</h2>
-						<div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Este recomandat ca femeile însărcinate să amâne tratamentele de estetică dentară până după naștere, mai ales dacă implică radiografii, anestezie sau medicamente
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingSeven">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
-								Este posibil să corectez dinții strâmbi fără a purta aparat dentar?
-							</button>
-						</h2>
-						<div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Da, în unele cazuri, dinții strâmbi pot fi corectați fără a purta aparat dentar. Există alternative, precum alignerele dentare transparente (de exemplu, Invisalign), care sunt mai estetice și confortabile. Totuși, eficiența acestor metode depinde de complexitatea cazului și de recomandările medicului stomatolog.
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingEight">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
-								Pot fi reparati dinții ciobiți sau fisurați prin tratamente de estetică dentară?
-							</button>
-						</h2>
-						<div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Da, dinții ciobiți sau fisurați pot fi reparați prin proceduri de estetică dentară, precum aplicarea fațetelor dentare, coroane dentare sau restaurări compozite. Medicul stomatolog va determina cea mai potrivită metodă în funcție de gradul de deteriorare și de nevoile pacientului
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingNine">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
-								Cât timp este necesar pentru a finaliza un tratament de estetică dentară?
-							</button>
-						</h2>
-						<div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									Durata tratamentelor de estetică dentară variază în funcție de tipul și complexitatea procedurii. Unele tratamente, precum albirea dinților, pot fi realizate într-o singură vizită la cabinet, în timp ce altele, precum aplicarea fațetelor dentare sau tratamentul cu aparat dentar, pot dura săptămâni sau chiar luni
-								</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="accordion-item">
-						<h2 class="accordion-header" id="flush-headingTen">
-							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
-								Ce măsuri de întreținere sunt necesare după un tratament de estetică dentară?
-							</button>
-						</h2>
-						<div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="flush-headingTen" data-bs-parent="#accordionFlushExample">
-							<div class="accordion-body">
-								<p>
-									După finalizarea unui tratament de estetică dentară, este important să mențineți o bună igienă orală prin periaj regulat, folosirea aței dentare și vizite periodice la medicul stomatolog pentru control și curățare profesională. De asemenea, este recomandat să evitați alimente și băuturi care pot provoca decolorarea dinților, precum cafeaua, ceaiul, vinul roșu sau fumatul. În cazul anumitor proceduri, cum ar fi aplicarea fațetelor dentare sau a coroanelor, este posibil să fie necesare precauții suplimentare, precum evitarea consumului de alimente dure sau a obiceiurilor care pot deteriora restaurările dentare (de exemplu, mestecatul de gheață sau deschiderea unor ambalaje cu dinții).
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-</section>
 

@@ -58,6 +58,7 @@ $route['echipa'] = 'pages/team';
 $route['preturi'] = 'pages/prices';
 $route['cazuri'] = 'pages/cases';
 $route['testimoniale'] = 'pages/reviews';
+$route['blog'] = 'pages/blog';
 
 $route['servicii/estetica-dentara'] = 'pages/est';
 

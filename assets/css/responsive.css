@@ -16,7 +16,7 @@
   }
 
   .hob-cert-home img{
-    max-width: 80px;
+    max-width: 90px;
   }
 
   .hero-bottom-txt .media i{
@@ -31,6 +31,10 @@
   .about-txt{
     padding: 0 20px 20px;
   }
+  
+.extra-margin{
+  margin-top: -5rem!important;
+}
 }
 
 @media (min-width: 443px) and (max-width: 575px){
@@ -41,6 +45,11 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  
+.extra-margin{
+  margin-top: -5rem!important;
+}
 }
 
 
@@ -86,7 +95,7 @@
     width: 100%;
   }
   .about-txt {
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
   }
   .number-counter-box {
     margin-bottom: 1rem;
@@ -148,7 +157,7 @@
     width: 100%;
   }
   .about-txt {
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
   }
   .number-counter-box {
     margin-bottom: 1rem;
