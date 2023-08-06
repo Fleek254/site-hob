@@ -393,7 +393,7 @@ h6 {
   padding: 8px 0;
   color: #fff;
   transition: opacity 200ms, transform 200ms;
-  opacity: 0.7;
+  opacity: 1;
 }
 
 .footer-menu-item:hover {
@@ -1037,7 +1037,6 @@ h6 {
 
 .footer-section {
   z-index: 2;
-  padding: 2rem 0;
   /* background-image: url("../images/ftr-bg.png"); */
   background-color: #444444;
   background-size: cover;
@@ -1071,7 +1070,7 @@ h6 {
   font-size: 0.9rem;
   font-weight: 400;
   color: #fff;
-  opacity: 0.7;
+  opacity: 1;
   line-height: 140%;
 }
 .footer-section .ftr-txt p a {

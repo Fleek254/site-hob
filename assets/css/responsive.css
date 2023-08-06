@@ -35,6 +35,21 @@
 .extra-margin{
   margin-top: -5rem!important;
 }
+
+.inner-service-title {
+  font-size: 32px!important;
+  text-align: center;
+}
+
+.case-slider img{
+  max-width: 210px!important;
+  margin: auto;
+}
+
+.footer-section {
+  padding-top: 0rem!important;
+}
+
 }
 
 @media (min-width: 443px) and (max-width: 575px){
