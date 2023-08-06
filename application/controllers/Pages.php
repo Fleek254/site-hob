@@ -21,6 +21,11 @@ class Pages extends CI_Controller {
 		$this->lw('contact');
 	}
 
+	public function blog()
+	{
+		$this->lw('blog');
+	}
+
 	public function team()
 	{
 		$this->lw('team');

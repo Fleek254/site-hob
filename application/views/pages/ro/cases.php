@@ -7,8 +7,8 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12 col-md-12 text-center mt-3">
-			<h2 class="inner-service-title">Portofoliu <span class="accent-hob">HoB Clinic</span></h2>
-			<p>Dovada muncii noastre se reflectă în zâmbetele pacienților</p>
+			<h2 class="inner-service-title accent-hob">Portofoliul <span class="accent-hob">HoB Clinic</span></h2>
+			<!-- <p>Dovada muncii noastre se reflectă în zâmbetele pacienților</p> -->
 		</div>
 	</div>
 </div>
@@ -112,12 +112,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-
-		<div class="row mt-md-5 mt-3">
-			<div class="col-md-12 mt-md-5">
-				<h2 class="inner-service-title">Cazurile HoB Clinic</h2>
 			</div>
 		</div>
 

@@ -38,12 +38,11 @@
 .slick-list
 {
     position: relative;
-
     display: block;
     overflow: hidden;
-
     margin: 0;
     padding: 0;
+    margin-left: 1rem;
 }
 .slick-list:focus
 {

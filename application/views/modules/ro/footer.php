@@ -43,56 +43,7 @@
 			<div class="col-md-2 col-12 mt-md-0 mt-2">
 				<img src="<?= base_url('assets/images/logomob.png') ?>" alt="Logo" class="img-fluid d-none d-md-block" style="max-width:40px;">
 			</div>
-			<div class="col-md-2 mt-md-0 mt-3">
-				<p class="footer-hob-menu-title">Servicii Oferite</p>
-				<ul class="footer-hob-menu-list">
-					<li>
-						<a href="/est.html" class="footer-menu-item">Estetica dentara</a>
-					</li>
-					<li>
-						<a href="/pedo.html" class="footer-menu-item">Pedodontie</a>
-					</li>
-					<li>
-						<a href="/radio.html" class="footer-menu-item">Radiologie</a>
-					</li>
-					<li>
-						<a href="/endo.html" class="footer-menu-item">Endodontie</a>
-					</li>
-					<li>
-						<a href="/orto.html" class="footer-menu-item">Ortodontie</a>
-					</li>
-					<li>
-						<a href="/prot.html" class="footer-menu-item">Protetica dentara</a>
-					</li>
-					<li>
-						<a href="/para.html" class="footer-menu-item">Paradontologie</a>
-					</li>
-					<li>
-						<a href="/serv1.html" class="footer-menu-item">Chirurgie orala</a>
-					</li>
-				</ul>
-			</div>
 
-			<div class="col-md-3 mt-md-0 mt-3">
-				<p class="footer-hob-menu-title">House of Beauty Clinic</p>
-				<ul class="footer-hob-menu-list">
-					<li>
-						<a href="#" class="footer-menu-item">Depre Noi</a>
-					</li>
-					<li>
-						<a href="/echipa.html" class="footer-menu-item">Echipa</a>
-					</li>
-					<li>
-						<a href="/cazuri.html" class="footer-menu-item">Portofoliu</a>
-					</li>
-					<li>
-						<a href="#" class="footer-menu-item">Presa</a>
-					</li>
-					<li>
-						<a href="/preturi.html" class="footer-menu-item">Tarife</a>
-					</li>
-				</ul>
-			</div>
 
 			<div class="col-md-2 mt-md-0 mt-3">
 				<p class="footer-hob-menu-title">Info</p>
@@ -126,6 +77,9 @@
 					</li>
 					<li>
 						<a href="#" class="footer-menu-item">Bd.Pipera, Nr. 59B, Parter, Bucuresti, Ilfov</a>
+					</li>
+					<li>
+						<a href="#" class="footer-menu-item">Bd.Decebal, Nr. 192, Bucuresti</a>
 					</li>
 				</ul>
 			</div>

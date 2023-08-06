@@ -314,7 +314,7 @@ $('.case-slider').slick({
       breakpoint: 480,
       settings: {
         arrows: false,
-        dots: false,
+        dots: true,
         centerMode: false,
         centerPadding: '10px',
         slidesToShow: 1

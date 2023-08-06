@@ -45,7 +45,7 @@ button:focus-within {
   width: 80%;
   border-bottom: 0.8px solid #5BB6CC;
   margin: auto;
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
 }
 
 a,
@@ -393,12 +393,16 @@ h6 {
   padding: 8px 0;
   color: #fff;
   transition: opacity 200ms, transform 200ms;
-  opacity: 0.7;
+  opacity: 1;
 }
 
 .footer-menu-item:hover {
   opacity: 1;
   transform: translateX(5px);
+}
+
+.bold{
+  font-weight: 600!important;
 }
 
 
@@ -496,9 +500,6 @@ h6 {
   margin-top: -4rem;
 }
 
-.extra-margin{
-  margin-top: -5rem!important;
-}
 
 .feature-box-wrap .feat-txt h5 {
   font-size: 1.2rem;
@@ -816,6 +817,7 @@ h6 {
   border-color: #5BB6CC;
   color: #5bb6cc!important;
 }
+
 .location-tab-head .nav .nav-item .nav-link.active {
   background: #e0f8ff;
   border-color: #5bb6cc;
@@ -1019,8 +1021,7 @@ h6 {
   position: relative;
 }
 .galler-box-wrap img {
-  display: block;
-  width: 100%;
+  width: 80%;
   border-radius: 1rem;
 }
 .gallery-badge {
@@ -1032,12 +1033,10 @@ h6 {
   color: #505050;
   line-height: 140%;
   text-align: center;
-  text-transform: uppercase;
 }
 
 .footer-section {
   z-index: 2;
-  padding: 2rem 0;
   /* background-image: url("../images/ftr-bg.png"); */
   background-color: #444444;
   background-size: cover;
@@ -1071,7 +1070,7 @@ h6 {
   font-size: 0.9rem;
   font-weight: 400;
   color: #fff;
-  opacity: 0.7;
+  opacity: 1;
   line-height: 140%;
 }
 .footer-section .ftr-txt p a {
@@ -1416,7 +1415,7 @@ h6 {
   }
 
   .hob-cert-home img {
-    max-width: 80px;
+    max-width: 90px;
   }
 
   .content-section {

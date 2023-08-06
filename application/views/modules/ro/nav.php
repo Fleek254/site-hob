@@ -42,7 +42,7 @@
 					<a class="nav-link" href="<?= base_url('cazuri') ?>">Cazuri</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="<?= base_url('testimoniale') ?>">PAreri PacienTi</a>
+					<a class="nav-link" href="<?= base_url('testimoniale') ?>">Pareri PacienTi</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="<?= base_url('preturi') ?>">Preturi</a>
@@ -52,6 +52,9 @@
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="<?= base_url('contact') ?>">Contact</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="<?= base_url('blog') ?>">Blog</a>
 				</li>
 			</ul>
 			<div class="d-flex">
