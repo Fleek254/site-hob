@@ -7,7 +7,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12 col-md-12 text-center mt-3">
-			<h2 class="inner-service-title accent-hob">Portofoliul <span class="accent-hob">HoB Clinic</span></h2>
+			<h2 class="inner-service-title accent-hob">Studii de caz</h2>
 			<!-- <p>Dovada muncii noastre se reflectă în zâmbetele pacienților</p> -->
 		</div>
 	</div>
@@ -16,20 +16,14 @@
 <section class=" p-4">
 	<div class="container px-md-3">
 
-		<div class="row mt-md-4 mt-3">
-			<div class="col-md-12">
-				<h2 class="inner-service-title">Studii de caz</h2>
-			</div>
-		</div>
-
 		<div class="row mt-md-4 mt-3 p-4 alt-row-hob-1">
 			<div class="col-md-12">
-				<h5 class="small-sub-info">Cazul #1</h5>
+				<h5 class="small-sub-info">Alin, 28 ani</h5>
 				<ul class="mt-3">
-					<li><span style="font-weight: 400;">Procedura: fatete dentare&nbsp; </span></li>
-					<li><span style="font-weight: 400;">Timp tratament: 6 saptamani</span></li>
-					<li><span style="font-weight: 400;">Doctori implicati: Dr Jona, Dr Carl</span></li>
-					<li><span style="font-weight: 400;">Tratament: curatare canal, slefuire dinti, aplicare fatete&nbsp;</span></li>
+					<li><span style="font-weight: 400;"><b>Procedura:</b> fatete dentare&nbsp; </span></li>
+					<li><span style="font-weight: 400;"><b>Timp tratament:</b> 6 saptamani</span></li>
+					<li><span style="font-weight: 400;"><b>Doctori implicati:</b> Dr Jona, Dr Carl</span></li>
+					<li><span style="font-weight: 400;"><b>Tratament:</b> curatare canal, slefuire dinti, aplicare fatete&nbsp;</span></li>
 				</ul>
 			</div>
 			<div class="col-md-12 col-12">
@@ -55,12 +49,12 @@
 
 		<div class="row mt-md-4 mt-3 alt-row-hob p-4">
 			<div class="col-md-12">
-				<h5 class="small-sub-info">Cazul #2</h5>
+				<h5 class="small-sub-info">Mircea, 35 ani</h5>
 				<ul class="mt-3">
-					<li><span style="font-weight: 400;">Procedura: fatete dentare&nbsp; </span></li>
-					<li><span style="font-weight: 400;">Timp tratament: 6 saptamani</span></li>
-					<li><span style="font-weight: 400;">Doctori implicati: Dr Jona, Dr Carl</span></li>
-					<li><span style="font-weight: 400;">Tratament: curatare canal, slefuire dinti, aplicare fatete&nbsp;</span></li>
+					<li><span style="font-weight: 400;"><b>Procedura:</b> fatete dentare&nbsp; </span></li>
+					<li><span style="font-weight: 400;"><b>Timp tratament:</b> 6 saptamani</span></li>
+					<li><span style="font-weight: 400;"><b>Doctori implicati:</b> Dr Jona, Dr Carl</span></li>
+					<li><span style="font-weight: 400;"><b>Tratament:</b> curatare canal, slefuire dinti, aplicare fatete&nbsp;</span></li>
 				</ul>
 			</div>
 			<div class="col-md-12 col-12">
@@ -86,12 +80,12 @@
 
 		<div class="row mt-md-4 mt-3 p-4 alt-row-hob-1">
 			<div class="col-md-12">
-				<h5 class="small-sub-info">Cazul #3</h5>
+				<h5 class="small-sub-info">Iulian, 26 ani</h5>
 				<ul class="mt-3">
-					<li><span style="font-weight: 400;">Procedura: fatete dentare&nbsp; </span></li>
-					<li><span style="font-weight: 400;">Timp tratament: 6 saptamani</span></li>
-					<li><span style="font-weight: 400;">Doctori implicati: Dr Jona, Dr Carl</span></li>
-					<li><span style="font-weight: 400;">Tratament: curatare canal, slefuire dinti, aplicare fatete&nbsp;</span></li>
+					<li><span style="font-weight: 400;"><b>Procedura:</b> fatete dentare&nbsp; </span></li>
+					<li><span style="font-weight: 400;"><b>Timp tratament:</b> 6 saptamani</span></li>
+					<li><span style="font-weight: 400;"><b>Doctori implicati:</b> Dr Jona, Dr Carl</span></li>
+					<li><span style="font-weight: 400;"><b>Tratament:</b> curatare canal, slefuire dinti, aplicare fatete&nbsp;</span></li>
 				</ul>
 			</div>
 			<div class="col-md-12 col-12">

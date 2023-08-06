@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h1 class="hob-service-title">Testimoniale Pacienti</h1>
-					<p style="font-size: 18px;" class="mt-2">Oferim cele mai bune servicii de pe piață, de aceea ținem cont de părerile pacienților noștri și încercăm să îmbunătățim în permanență experiența dvs. în Clinicile House of Beauty.</p>
+					<p style="font-size: 18px;" class="mt-2 justify-text">Oferim cele mai bune servicii de pe piață, de aceea ținem cont de părerile pacienților noștri și încercăm să îmbunătățim în permanență experiența dvs. în Clinicile House of Beauty.</p>
 				</div>
 			</div>
 			<div class="row mt-5 mb-5 py">
@@ -126,7 +126,7 @@
 				</div>
 			</div>
 
-			<div class="row mt-5 py-5">
+			<div class="row mt-5 py-3">
 				<div class="col-md-12 mb-3">
 					<h2 class="inner-service-title">Recenzii <span class="accent-hob">Facebook</span></h2>
 				</div>
@@ -291,7 +291,7 @@
 
 
 
-			<div class="row mt-5 py-5">
+			<div class="row mt-2 py-5">
 				<div class="col-md-12 mb-3">
 					<h2 class="inner-service-title">Recenzii <span class="accent-hob">Google</span></h2>
 				</div>

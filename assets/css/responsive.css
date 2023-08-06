@@ -37,8 +37,9 @@
 }
 
 .inner-service-title {
-  font-size: 32px!important;
+  font-size: 40px!important;
   text-align: center;
+  font-weight: 600!important;
 }
 
 .case-slider img{
@@ -48,6 +49,13 @@
 
 .footer-section {
   padding-top: 0rem!important;
+}
+
+.hob-service-title {
+  font-weight: 600;
+  color: #5BB6CC;
+  font-size: 40px!important;
+  margin-top: 2rem!important;
 }
 
 }

@@ -7,7 +7,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12 col-md-12 text-center mt-3">
-			<h2 class="inner-service-title">Contact <span class="accent-hob">HoB Clinic</span></h2>
+			<h2 class="inner-service-title accent-hob">Contact </h2>
 		</div>
 	</div>
 </div>
@@ -23,8 +23,15 @@
 						<div class="info-hob-w d-flex align-items-start mt-5">
 							<img src="assets/images/location1.png" class="me-2" alt="">
 							<div class="">
-								<h6 class="fw-bold">Adresa</h6>
+								<h6 class="fw-bold">Adresa HOB Pipera</h6>
 								<p class="mt-1">Bulevardul Pipera, Nr. 59B, Parter, Bucuresti, Ilfov</p>
+							</div>
+						</div>
+						<div class="info-hob-w d-flex align-items-start mt-5">
+							<img src="assets/images/location1.png" class="me-2" alt="">
+							<div class="">
+								<h6 class="fw-bold">Adresa HOB Piata Alba Iulia</h6>
+								<p class="mt-1">Bulevardul Decebal Nr. 192, Bucuresti</p>
 							</div>
 						</div>
 						<div class="info-hob-w d-flex align-items-start mt-5">
@@ -72,8 +79,13 @@
 							</form>
 						</div>
 					</div>
-					<div class="col-12 col-md-12 mt-5">
+					<div class="fw-bold mt-5">Adresa HOB Pipera</div>
+					<div class="col-12 col-md-12 mt-2">
 						<iframe width="100%" height="400" style="border-radius: 10px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=44.512357,26.139416&amp;hl=ro&amp;z=18&amp;output=embed"></iframe>
+					</div>
+					<div class="fw-bold mt-5">Adresa HOB Piata Alba Iulia</div>
+					<div class="col-12 col-md-12 mt-2">
+						<iframe width="100%" height="400" style="border-radius: 10px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=44.42664,26.12901&amp;hl=ro&amp;z=18&amp;output=embed"></iframe>
 					</div>
 				</div>
 			</div>

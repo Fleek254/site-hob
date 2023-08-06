@@ -48,6 +48,25 @@ button:focus-within {
   margin-bottom: 1rem;
 }
 
+.justify-text{
+  text-align: justify;
+  padding: 1rem;
+}
+
+.price-table{
+  margin-top: 2rem;
+  padding: 0!important;
+  border: 1px solid #242d63;
+}
+
+.table>tbody{
+  font-size: 12px;
+}
+
+.align-right{
+  margin-left: 3rem;
+}
+
 a,
 a:hover {
   color: #000;
@@ -1050,6 +1069,7 @@ h6 {
   border-top: 1px solid #535353;
   margin-top: 4rem;
   padding-top: 2rem;
+  margin-bottom: 3rem;
 }
 .footer-section .ftr-txt ul {
   display: flex;
@@ -1186,12 +1206,12 @@ h6 {
 }
 
 .alt-row-hob {
-  background: rgba(242,244,244,0.8);
+  background: #DCF2F7;
   border-radius: 10px;
 }
 
 .alt-row-hob-1 {
-  background: rgba(242,244,244,0.3);
+  background: #DCF2F7;
   border-radius: 10px;
 }
 
@@ -1301,7 +1321,6 @@ h6 {
 .small-sub-info {
     font-size: 24px;
     line-height: 36px;
-    letter-spacing: -0.5px;
 }
 
 .con_text_end:before {
@@ -1365,7 +1384,6 @@ h6 {
 }
 
 .accordion .accordion-item button {
-    font-size: 0.9rem;
     font-weight: 700;
     color: #000b4a;
     letter-spacing: -0.02em;
@@ -1382,6 +1400,7 @@ h6 {
     font-size: 26px;
     color: #000b4a;
     transform: rotate(180deg);
+    font-size: 20px;
 }
 
 .accordion-button:not(.collapsed)::after {
