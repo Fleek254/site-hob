@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/ondhdamy/public_html/dev-ond-hda-mybluehost-me
+    - export DEPLOYPATH=/home3/ondhdamy/public_html/dev.ond.hda.mybluehost.me
     - /bin/cp -R * $DEPLOYPATH
