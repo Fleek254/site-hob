@@ -7,7 +7,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12 col-md-12 text-center mt-3">
-			<h2 class="inner-service-title">Contact <span class="accent-hob">HoB Clinic</span></h2>
+			<h2 class="inner-service-title accent-hob">Contact </h2>
 		</div>
 	</div>
 </div>

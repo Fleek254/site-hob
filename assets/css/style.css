@@ -50,7 +50,21 @@ button:focus-within {
 
 .justify-text{
   text-align: justify;
-  padding: 1rem
+  padding: 1rem;
+}
+
+.price-table{
+  margin-top: 2rem;
+  padding: 0!important;
+  border: 1px solid #242d63;
+}
+
+.table>tbody{
+  font-size: 12px;
+}
+
+.align-right{
+  margin-left: 3rem;
 }
 
 a,
@@ -1370,7 +1384,6 @@ h6 {
 }
 
 .accordion .accordion-item button {
-    font-size: 0.9rem;
     font-weight: 700;
     color: #000b4a;
     letter-spacing: -0.02em;
@@ -1387,6 +1400,7 @@ h6 {
     font-size: 26px;
     color: #000b4a;
     transform: rotate(180deg);
+    font-size: 20px;
 }
 
 .accordion-button:not(.collapsed)::after {

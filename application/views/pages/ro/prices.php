@@ -19,12 +19,12 @@
 								</button>
 							</h2>
 							<div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 100%; height: 242px;" border="1">
-										<tbody>
+								<div class="accordion-body price-table">
+									<table class="table" style="border-collapse: collapse; width: 100%; height: 242px; color: #242d63" border="1">
+										<tbody class="table-price-fonts">
 										<tr style="height: 18px;">
 											<td style="width: 50%; height: 18px;"><strong>Denumire serviciu</strong></td>
-											<td style="width: 50%; height: 18px;"><strong>Preț</strong></td>
+											<td  style="width: 50%; height: 18px;"><strong>Preț</strong></td>
 										</tr>
 										<tr style="height: 19px;">
 											<td style="width: 50%; height: 19px;">Consultație simplă</td>
@@ -95,8 +95,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 98.2438%; height: 272px;" border="1">
+								<div class="accordion-body price-table">
+									<table class="table" style="border-collapse: collapse; height: 272px;  color: #242d63" border="1">
 										<tbody>
 										<tr style="height: 19px;">
 											<td style="width: 50%; height: 19px;"><strong>Denumire serviciu</strong></td>
@@ -171,7 +171,7 @@
 								</button>
 							</h2>
 							<div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
+								<div class="accordion-body price-table">
 									<table class="table" style="border-collapse: collapse; width: 100%;" border="1">
 										<tbody>
 										<tr>
@@ -207,8 +207,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 100%; height: 362px;" border="1">
+								<div class="accordion-body price-table">
+									<table class="table" style="border-collapse: collapse; width: 100%; height: 362px;  color: #242d63" border="1">
 										<tbody>
 										<tr style="height: 19px;">
 											<td style="width: 50%; height: 19px;"><strong>Denumire serviciu</strong></td>
@@ -299,8 +299,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 100%; height: 133px;" border="1">
+								<div class="accordion-body price-table">
+									<table class="table" style="border-collapse: collapse; width: 100%; height: 133px;  color: #242d63" border="1">
 										<tbody>
 										<tr style="height: 19px;">
 											<td style="width: 50%; height: 19px;"><strong>Nume serviciu</strong></td>
@@ -343,8 +343,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 100%;" border="1">
+								<div class="accordion-body price-table">
+									<table class="table" style="border-collapse: collapse; width: 100%;  color: #242d63" border="1">
 										<tbody>
 										<tr>
 											<td style="width: 50%;"><strong>Denumire serviciu</strong></td>
@@ -395,8 +395,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 98.2438%; height: 331px;" border="1">
+								<div class="accordion-body  price-table">
+									<table class="table" style="border-collapse: collapse; height: 331px;  color: #242d63" border="1">
 										<tbody>
 										<tr style="height: 19px;">
 											<td style="width: 50%; height: 19px;"><strong>Denumire serviciu</strong></td>
@@ -481,8 +481,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 100%;" border="1">
+								<div class="accordion-body  price-table">
+									<table class="table" style="border-collapse: collapse; width: 100%;  color: #242d63" border="1">
 										<tbody>
 										<tr>
 											<td style="width: 50%;"><strong>Denumire serviciu</strong></td>
@@ -513,8 +513,8 @@
 								</button>
 							</h2>
 							<div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#accordionFlushExample">
-								<div class="accordion-body">
-									<table class="table" style="border-collapse: collapse; width: 100%;" border="1">
+								<div class="accordion-body  price-table">
+									<table class="table" style="border-collapse: collapse; width: 100%;  color: #242d63" border="1">
 										<tbody>
 										<tr>
 											<td style="width: 50%;"><strong>Denumire serviciu</strong></td>
