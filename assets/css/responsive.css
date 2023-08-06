@@ -50,6 +50,13 @@
   padding-top: 0rem!important;
 }
 
+.hob-service-title {
+  font-weight: 800;
+  color: #5BB6CC;
+  font-size: 50px!important;
+  margin-top: 2rem!important;
+}
+
 }
 
 @media (min-width: 443px) and (max-width: 575px){

@@ -48,6 +48,11 @@ button:focus-within {
   margin-bottom: 1rem;
 }
 
+.justify-text{
+  text-align: justify;
+  padding: 1rem
+}
+
 a,
 a:hover {
   color: #000;
@@ -1187,12 +1192,12 @@ h6 {
 }
 
 .alt-row-hob {
-  background: rgba(242,244,244,0.8);
+  background: #DCF2F7;
   border-radius: 10px;
 }
 
 .alt-row-hob-1 {
-  background: rgba(242,244,244,0.3);
+  background: #DCF2F7;
   border-radius: 10px;
 }
 
@@ -1302,7 +1307,6 @@ h6 {
 .small-sub-info {
     font-size: 24px;
     line-height: 36px;
-    letter-spacing: -0.5px;
 }
 
 .con_text_end:before {
